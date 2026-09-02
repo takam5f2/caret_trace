@@ -25,7 +25,7 @@
       #   VERSION=$(grep -P -o "(?<=tj\-actions/changed\-files@).+" {dest})
       #   sd "tj-actions/changed-files@(.+)" "tj-actions/changed-files@"$VERSION {source}
 
-- repository: tier4/caret_common
+- repository: takam5f2/caret_common
   files:
     - source: .cspell.json
     - source: .pre-commit-config.yaml
