@@ -6,14 +6,14 @@ Code changes from these PRs are already included in the migrated main branch.
 The links point to the original PRs for discussion and review history.
 
 | PR# | Title | Author | Original |
-|-----|-------|--------|----------|
+| --- | ----- | ------ | -------- |
 
 | #331 | fix: add a maintainer for the build farm | @miyakoshi-dev | [tier4/caret_trace#331](https://github.com/tier4/caret_trace/pull/331) |
 | #330 | add ros2trace to package.xml | @xygyo77 | [tier4/caret_trace#330](https://github.com/tier4/caret_trace/pull/330) |
 | #329 | chore: update version to v0.7.3 | @app/github-actions | [tier4/caret_trace#329](https://github.com/tier4/caret_trace/pull/329) |
 | #328 | refactor: remove CycloneDDS source bundling by leveraging public APIs | @xygyo77 | [tier4/caret_trace#328](https://github.com/tier4/caret_trace/pull/328) |
 | #327 | chore: update version to v0.7.2 | @app/github-actions | [tier4/caret_trace#327](https://github.com/tier4/caret_trace/pull/327) |
-| #326 | feat: add agnocast node tracepoints  | @kobayu858 | [tier4/caret_trace#326](https://github.com/tier4/caret_trace/pull/326) |
+| #326 | feat: add agnocast node tracepoints | @kobayu858 | [tier4/caret_trace#326](https://github.com/tier4/caret_trace/pull/326) |
 | #325 | chore: update version to v0.7.1 | @app/github-actions | [tier4/caret_trace#325](https://github.com/tier4/caret_trace/pull/325) |
 | #324 | chore: update version to v0.7.0 | @app/github-actions | [tier4/caret_trace#324](https://github.com/tier4/caret_trace/pull/324) |
 | #321 | refactor: rename ciid | @atsushi421 | [tier4/caret_trace#321](https://github.com/tier4/caret_trace/pull/321) |
@@ -63,7 +63,7 @@ The links point to the original PRs for discussion and review history.
 | #271 | chore: update package.xml version to v0.4.25 | @h-suzuki-isp | [tier4/caret_trace#271](https://github.com/tier4/caret_trace/pull/271) |
 | #270 | ci(pre-commit): autoupdate | @app/pre-commit-ci | [tier4/caret_trace#270](https://github.com/tier4/caret_trace/pull/270) |
 | #269 | ci(pre-commit): autoupdate | @app/pre-commit-ci | [tier4/caret_trace#269](https://github.com/tier4/caret_trace/pull/269) |
-| #268 | feat: workflow file for auto update package.xml  | @h-suzuki-isp | [tier4/caret_trace#268](https://github.com/tier4/caret_trace/pull/268) |
+| #268 | feat: workflow file for auto update package.xml | @h-suzuki-isp | [tier4/caret_trace#268](https://github.com/tier4/caret_trace/pull/268) |
 | #267 | build(deps): bump codecov/codecov-action from 3 to 4 | @app/dependabot | [tier4/caret_trace#267](https://github.com/tier4/caret_trace/pull/267) |
 | #266 | chore: update package.xml version to 0.4.24 | @h-suzuki-isp | [tier4/caret_trace#266](https://github.com/tier4/caret_trace/pull/266) |
 | #265 | ci(pre-commit): autoupdate | @app/pre-commit-ci | [tier4/caret_trace#265](https://github.com/tier4/caret_trace/pull/265) |
@@ -306,4 +306,4 @@ The links point to the original PRs for discussion and review history.
 | #7 | chore: sync files | @app/tier4-autoware-public-bot | [tier4/caret_trace#7](https://github.com/tier4/caret_trace/pull/7) |
 | #6 | update sync-files | @takam5f2 | [tier4/caret_trace#6](https://github.com/tier4/caret_trace/pull/6) |
 | #4 | add sync-files.yaml | @takam5f2 | [tier4/caret_trace#4](https://github.com/tier4/caret_trace/pull/4) |
-| #3 |  初期化時のトレースポイントにトレースフィルタリングの適用 | @hsgwa | [tier4/caret_trace#3](https://github.com/tier4/caret_trace/pull/3) |
+| #3 | 初期化時のトレースポイントにトレースフィルタリングの適用 | @hsgwa | [tier4/caret_trace#3](https://github.com/tier4/caret_trace/pull/3) |
